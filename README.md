@@ -8,7 +8,7 @@
 *   Git & GitHub
 
 ## Мои проекты
--\ (-_-) /-
+-\ (-_-) /- https://github.com/AnatoliySh666/AnatoliySh666.github.io.git
 
 ## Контакты
 *   Email: tolik.shvetsov@inbox.ru
